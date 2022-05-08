@@ -37,7 +37,8 @@ O(n^2)
 
 # Soru 4
 
-## Ortada olduğu için Average Casedir.
+## Ortada olduğu için Average Casedir. <br />
+<br />
 
 # Soru 5 
 
