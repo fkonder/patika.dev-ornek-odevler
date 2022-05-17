@@ -6,4 +6,4 @@
 
 ### Bu repo içerisindeki kodlar ve soru çözümleri genellikle Java ile Backend Patika'sındaki derslerin çözümüdür.
 
-<img align="right" alt="https://app.patika.dev/paths" width="200px" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" style="padding-right:10px;" />
+<img align="right" alt="Çalıştığım site" width="200px" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" style="padding-right:10px;" />
