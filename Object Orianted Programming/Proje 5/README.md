@@ -9,4 +9,4 @@
 ## Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gelen olayları zaman damgası ve günlüğe kaydetmek için bir "saat" kullanır. Simülatör tarafından yolcu oluşturmak ve her yolcu için kalkış ve varış katlarını belirlemek için rastgele bir sayı üreteci kullanılır.
 
 <div align="center"><h1>ÇÖZÜM
-<img src="diyagram.png" width="1000px"></div>
+<img src="diyagram.jpg" width="1000px"></div>
