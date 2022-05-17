@@ -14,4 +14,4 @@
 <br />
 <br />
 
-<img src="/home/omerfaruk/patika.dev-ornek-odevler/Object Orianted Programming/Proje 1/diagram.png" width="800px">
+<img src="diagram.png" width="800px">
