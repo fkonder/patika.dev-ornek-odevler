@@ -1,4 +1,4 @@
-# Merhaba 👋 
+# Merhaba 👋👋 
 
 ## Bu repoda patika.dev üzerinden çalıştığım patikalarda ödev olarak verilen projelerin çözümünü paylaşıyorum. Soruları olabildiğince açık ve net bir dille çözmeye çalışıyorum.
 <br />
