@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.picture{
+    text-align: center;
+}
+.search{
+    background-color: white;
+    width: 83;
+    margin-top: 0;
+    text-align: center;
+    margin-left: 80px;
+}
+#mrg-b{
+    margin-bottom: 0;
+}
+.bg-box{
+    background-color: #7EE5DA;
+    width: 35%;
+    padding: 10px;
+}
+.box{
+    display: flex;
+    padding-left: 77px;
+    padding-right: 86px;
+    text-align: center;
+}
+.special{
+    background-color: #7ee5da;
+    width: 35%;
+    padding:10px;
+}
+.click{background-color: #70ccc2;
+    width: 20%;
+    padding: 5px;
+    font-size: 12px;
+}
+.get{
+    background-color: #62b3aa;
+    width: 35%;
+    font-size: 12px;   
+}
+#ortak{
+margin: 2px;
+}
+footer{
+    text-align: center;
+
+    font-size: 13px;
+}
